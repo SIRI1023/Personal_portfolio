@@ -39,7 +39,7 @@ export function About() {
 
           <div className="mt-8">
             <a 
-              href="https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:e68dea93-1abd-4f43-85f9-2a0daa6d4fc9" 
+              href="https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:965294d2-1d9a-44e7-8ab1-caa959158a16" 
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center space-x-2 bg-[#FFE169] text-gray-900 px-6 py-3 rounded-lg hover:bg-[#FFD93D] transition-colors"
