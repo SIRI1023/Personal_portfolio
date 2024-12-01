@@ -1,3 +1,1 @@
-# Personal_portfolio
-
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/SIRI1023/Personal_portfolio)
+A modern, responsive portfolio website showcasing my professional journey, projects, and technical expertise. Built with a focus on user experience and performance.
