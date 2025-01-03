@@ -5,42 +5,34 @@ const skillCategories = [
     title: 'Programming Languages',
     skills: [
       'Python',
-      'Java',
       'JavaScript',
-      'Scala',
-      'C++',
       'React.js',
       'Express.js',
       'Node.js',
-      'Shell Scripting',
     ],
   },
   {
     title: 'Big Data Technologies',
-    skills: ['Hadoop', 'Spark', 'Apache Kafka', 'HDFS'],
+    skills: ['Hadoop', 'Spark', 'Apache Kafka'],
   },
   {
     title: 'Databases',
-    skills: ['SQL', 'MySQL', 'MongoDB', 'Oracle', 'Microsoft SQL Server'],
+    skills: ['SQL', 'MySQL', 'MongoDB'],
   },
   {
     title: 'Cloud Platforms',
-    skills: ['AWS S3', 'AWS Redshift', 'AWS EMR', 'AWS Glue', 'GCP'],
+    skills: ['AWS S3', 'AWS EMR', 'GCP'],
   },
   {
     title: 'ETL & Data Tools',
     skills: [
       'Informatica',
-      'Tableau',
-      'Power BI',
-      'Pandas',
-      'NumPy',
-      'Seaborn',
+      'Tableau'
     ],
   },
   {
     title: 'Developer Tools',
-    skills: ['Git', 'Jenkins', 'Jira', 'Lucid Chart', 'VSCode'],
+    skills: ['Git', 'Jira', 'VSCode'],
   },
   {
     title: 'Web Management',
@@ -50,9 +42,7 @@ const skillCategories = [
     title: 'Analytics & Optimization',
     skills: [
       'Google Analytics',
-      'A/B Testing',
-      'SEO Optimization',
-      'Google Search Console',
+      'SEO Optimization (site-improve)'
     ],
   },
 ];
