@@ -4,6 +4,35 @@ import { ProjectModal } from './ProjectModal';
 
 const projects = [
   {
+    title: 'Newsify Web Application',
+    description:
+      'A modern news aggregation platform delivering personalized content, AI-powered summaries, and real-time sentiment analysis.',
+    tech: ['React', 'Supabase', 'Tailwind CSS', 'Node.js', 'Hugging Face', 'TF-IDF', 'NLP'],
+    links: {
+      github: 'https://github.com/SIRI1023/Newsify_webApp.git',
+      live: 'https://newsify-web-app.vercel.app/',
+      demo: 'https://go.screenpal.com/watch/cZlVbkncQ9h', // Replace with actual demo link if available
+    },
+    details: {
+      features: [
+        'News Curation: Aggregate news from multiple sources and categorize by topic.',
+        'AI-Powered Summarization: Generate concise summaries of long articles using Hugging Face.',
+        'Personalized Recommendations: Recommend articles based on user preferences with TF-IDF.',
+        'Sentiment Analysis: Filter articles by tone (positive, negative, neutral).',
+        'Trending Topics: Display real-time trending news topics dynamically.',
+        'AI Discussions: Enable interactive discussions with an AI assistant about news topics.',
+      ],
+      technologies: ['React', 'Supabase', 'Node.js', 'Tailwind CSS', 'Hugging Face', 'NLP', 'TF-IDF'],
+      challenges: [
+        'Integrated multiple AI tools for seamless user experience.',
+        'Optimized performance for fetching and rendering real-time data.',
+        'Developed modular and reusable React components for scalability.',
+      ],
+      impact:
+        'Expected to enhance user engagement with personalized news delivery and reduce time spent finding relevant articles by 50% through efficient AI tools.',
+    },
+  },
+  {
     title: 'Fighting Hunger Together',
     description:
       'A web-based platform designed to combat hunger and malnutrition by raising awareness, encouraging community involvement, and providing sustainable solutions.',
@@ -23,7 +52,6 @@ const projects = [
       ],
       technologies: ['React', 'Node.js', 'Express', 'MongoDB', 'Tailwind CSS'],
       challenges: [
-        'Implemented secure payment gateway integration while ensuring data privacy',
         'Developed responsive design for seamless mobile user experience',
         'Created efficient data synchronization between multiple service points',
       ],
