@@ -11,7 +11,7 @@ export function About() {
             <div className="flex items-start space-x-3">
               <Code size={24} className="text-[#FFE169] mt-1 flex-shrink-0" />
               <p className="text-gray-300 text-lg leading-relaxed">
-                As a passionate Full Stack Developer and Data Engineer, I bring a unique blend of web development expertise and data engineering capabilities. Currently pursuing my Master's in Computer Science at Texas State University, I specialize in creating scalable web applications and implementing robust data solutions that drive business value.
+                As a passionate Full Stack Developer and Data Engineer, I bring a unique blend of web development expertise and data engineering capabilities. Recently graduated in Master's in Computer Science at Texas State University, I specialize in creating scalable web applications and implementing robust data solutions that drive business value.
               </p>
             </div>
 
