@@ -6,7 +6,7 @@ const experiences = [
     title: "Digital Product Developer",
     company: "The University Star",
     location: "San Marcos, TX",
-    period: "February 2023 - Present",
+    period: "February 2023 - December 2024",
     description: [
       "Managed end-to-end redesign and migration of The University Star's website to WordPress platform",
       "Led design of wireframes and UI/UX layouts, winning first place at 2024 National College Media Association Pinnacle Awards",
