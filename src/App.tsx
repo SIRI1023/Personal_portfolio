@@ -13,11 +13,11 @@ function App() {
   return (
     <div className="min-h-screen bg-gray-800">
       <Header />
-      <About />
-      <Experience />
-      <Education />
-      <Skills />
       <Projects />
+      <Skills />
+      <Experience />
+      <About />
+      <Education />
       <Interests />
       <Contact />
       <Footer />
