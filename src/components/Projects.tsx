@@ -11,7 +11,7 @@ const projects = [
     links: {
       github: 'https://github.com/SIRI1023/Newsify_webApp.git',
       live: 'https://newsify-web-app.vercel.app/',
-      demo: 'https://go.screenpal.com/watch/cZlVbkncQ9h', // Replace with actual demo link if available
+      demo: 'https://go.screenpal.com/watch/cTVfc4neOre', 
     },
     details: {
       features: [
