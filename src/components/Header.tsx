@@ -1,5 +1,5 @@
 import React from 'react';
-import { Linkedin, Mail } from 'lucide-react';
+import { Linkedin, Mail, Github } from 'lucide-react';
 
 export function Header() {
   return (
@@ -22,6 +22,14 @@ export function Header() {
             className="p-4 bg-[#FFE169] rounded-full hover:bg-[#FFD93D] transition-all duration-300 transform hover:scale-110 hover:rotate-6 shadow-lg"
           >
             <Linkedin size={24} className="text-gray-900" />
+          </a>
+          <a 
+            href="https://github.com/SIRI1023?tab=repositories" 
+            target="_blank" 
+            rel="noopener noreferrer"
+            className="p-4 bg-[#FFE169] rounded-full hover:bg-[#FFD93D] transition-all duration-300 transform hover:scale-110 hover:rotate-6 shadow-lg"
+          >
+            <Github size={24} className="text-gray-900" />
           </a>
           <a 
             href="mailto:srinagasri10@gmail.com"
