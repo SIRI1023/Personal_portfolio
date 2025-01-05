@@ -32,7 +32,7 @@ export function Header() {
             <Github size={24} className="text-gray-900" />
           </a>
           <a 
-            href="mailto:srinagasri10@gmail.com"
+            href="mailto:shri23.govvala@gmail.com"
             className="p-4 bg-[#FFE169] rounded-full hover:bg-[#FFD93D] transition-all duration-300 transform hover:scale-110 hover:-rotate-6 shadow-lg"
           >
             <Mail size={24} className="text-gray-900" />
